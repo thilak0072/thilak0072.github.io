@@ -8,6 +8,8 @@
 
 
 ## About Me
+I am Thilakraj currently pursuing my B.Tech degree in Computer science and Bussiness Systems
+
 
 
 ## Projects
