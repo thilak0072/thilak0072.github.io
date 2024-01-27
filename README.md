@@ -1,5 +1,4 @@
-# thilak0072.github.io
-# Your Full Name's Portfolio
+
 # Your Full Name's Portfolio
 
 ![Profile Image](images/profile.jpg)
