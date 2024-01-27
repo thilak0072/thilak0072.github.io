@@ -1,5 +1,5 @@
 # NAME:Thilakraj.J
-# Profile:"E:\profilr.jpg" alt="Profile Image" width="200" />
+# Profile: E:\profilr.jpg
 
 
 
