@@ -13,9 +13,8 @@ I am Thilakraj currently pursuing my B.Tech degree in Computer science and Bussi
 
 
 ## Projects
-- Project 1: Chatbot using Uipath 
-- Project 2: 
-- ...
+- Title: Chatbot using Uipath 
+  
 
 ## Skills
 - Programming Languages: Java, Python, C++,c
@@ -43,24 +42,4 @@ college name: Veltech Multitech Dr rangarajan Dr sakunthala Engineering College
 - LinkedIn: Thilakraj
 - Email:  thilakr864@gmail.com
 - Phone: 8939052440
-- Personal Website: [Your Portfolio Website](link_to_website)
 
-Feel free to explore my projects and connect with me!
-
-
-## About Me
-I am a Computer Science student currently pursuing my [X] year at [Your University]. Passionate about [mention your interests and areas of focus].
-
-## Projects
-- [Project 1](link_to_project_1): Short description.
-- [Project 2](link_to_project_2): Short description.
-- ...
-
-## Skills
-- Programming Languages: Java, Python, C++
-- Web Development: HTML, CSS, JavaScript
-- ...
-
-)
-- Email: your.email@example.com
-- Personal Website: [Your Portfolio Website](link_to_website)
