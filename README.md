@@ -1,4 +1,4 @@
-# Profile: ![image](https://github.com/thilak0072/thilak0072.github.io/assets/157899164/e0030860-e035-495a-95a5-5cc67f9c405e)
+#![image](https://github.com/thilak0072/thilak0072.github.io/assets/157899164/e0030860-e035-495a-95a5-5cc67f9c405e)
 
 # NAME:Thilakraj.J
 
