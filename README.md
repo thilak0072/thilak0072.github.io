@@ -1,6 +1,7 @@
-#NAME:Thilakraj.J
+![profilr](https://github.com/thilak0072/thilak0072.github.io/assets/157899164/55fc989c-cc14-4da1-a438-c8a143d82393)#NAME:Thilakraj.J
 
-![Profile Image](images/profile.jpg)
+![Profile Image][Uploading profilr.jpg…]()
+
 
 ## About Me
 
